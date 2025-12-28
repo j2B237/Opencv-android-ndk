@@ -1,0 +1,4 @@
+#Sun Dec 28 19:33:05 GMT 2025
+base.0=/home/astmin/Documents/Android/OpenCV/getting-started/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

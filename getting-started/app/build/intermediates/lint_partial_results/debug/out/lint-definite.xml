@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.2.1" type="incidents">
+
+    <incident
+        id="OldTargetApi"
+        severity="warning"
+        message="Not targeting the latest versions of Android; compatibility modes apply. Consider testing and updating this version. Consult the android.os.Build.VERSION_CODES javadoc for details.">
+        <fix-replace
+            description="Update targetSdkVersion to 36"
+            oldString="34"
+            replacement="36"/>
+        <location
+            file="${:app*projectDir}/build.gradle"
+            line="15"
+            column="3"
+            startOffset="183"
+            endLine="15"
+            endColumn="15"
+            endOffset="195"/>
+    </incident>
+
+    <incident
+        id="ChromeOsAbiSupport"
+        severity="warning"
+        message="Missing x86 and x86_64 ABI support for ChromeOS">
+        <location
+            file="${:app*projectDir}/build.gradle"
+            line="21"
+            column="15"
+            startOffset="256"
+            endLine="21"
+            endColumn="26"
+            endOffset="267"/>
+    </incident>
+
+</incidents>

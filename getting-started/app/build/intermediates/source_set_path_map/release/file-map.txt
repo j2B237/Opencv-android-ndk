@@ -1,0 +1,7 @@
+com.example.opencvtest.app-pngs-0 /home/astmin/Documents/Android/OpenCV/getting-started/app/build/generated/res/pngs/release
+com.example.opencvtest.app-resValues-1 /home/astmin/Documents/Android/OpenCV/getting-started/app/build/generated/res/resValues/release
+com.example.opencvtest.app-packageReleaseResources-2 /home/astmin/Documents/Android/OpenCV/getting-started/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.example.opencvtest.app-packageReleaseResources-3 /home/astmin/Documents/Android/OpenCV/getting-started/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.example.opencvtest.app-merged_res-4 /home/astmin/Documents/Android/OpenCV/getting-started/app/build/intermediates/merged_res/release
+com.example.opencvtest.app-main-5 /home/astmin/Documents/Android/OpenCV/getting-started/app/src/main/res
+com.example.opencvtest.app-release-6 /home/astmin/Documents/Android/OpenCV/getting-started/app/src/release/res

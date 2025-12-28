@@ -1,0 +1,1 @@
+/home/astmin/Documents/Android/OpenCV/getting-started/app/src/main/cpp/CMakeLists.txt

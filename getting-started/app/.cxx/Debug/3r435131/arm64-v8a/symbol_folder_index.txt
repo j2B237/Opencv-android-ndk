@@ -1,0 +1,1 @@
+/home/astmin/Documents/Android/OpenCV/getting-started/app/build/intermediates/cxx/Debug/3r435131/obj/arm64-v8a

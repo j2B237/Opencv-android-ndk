@@ -1,0 +1,7 @@
+com.example.opencvtest.app-pngs-0 /home/astmin/Documents/Android/OpenCV/getting-started/app/build/generated/res/pngs/debug
+com.example.opencvtest.app-resValues-1 /home/astmin/Documents/Android/OpenCV/getting-started/app/build/generated/res/resValues/debug
+com.example.opencvtest.app-packageDebugResources-2 /home/astmin/Documents/Android/OpenCV/getting-started/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.opencvtest.app-packageDebugResources-3 /home/astmin/Documents/Android/OpenCV/getting-started/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.opencvtest.app-merged_res-4 /home/astmin/Documents/Android/OpenCV/getting-started/app/build/intermediates/merged_res/debug
+com.example.opencvtest.app-debug-5 /home/astmin/Documents/Android/OpenCV/getting-started/app/src/debug/res
+com.example.opencvtest.app-main-6 /home/astmin/Documents/Android/OpenCV/getting-started/app/src/main/res

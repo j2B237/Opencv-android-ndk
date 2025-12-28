@@ -1,0 +1,38 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.opencvtest"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <application
+11-->/home/astmin/Documents/Android/OpenCV/getting-started/app/src/main/AndroidManifest.xml:5:2-15:16
+12        android:allowBackup="true"
+12-->/home/astmin/Documents/Android/OpenCV/getting-started/app/src/main/AndroidManifest.xml:6:3-29
+13        android:debuggable="true"
+14        android:extractNativeLibs="true"
+15        android:label="OpenCV-Test" >
+15-->/home/astmin/Documents/Android/OpenCV/getting-started/app/src/main/AndroidManifest.xml:7:3-30
+16        <activity
+16-->/home/astmin/Documents/Android/OpenCV/getting-started/app/src/main/AndroidManifest.xml:8:3-14:14
+17            android:name="com.example.opencvtest.MainActivity"
+17-->/home/astmin/Documents/Android/OpenCV/getting-started/app/src/main/AndroidManifest.xml:8:13-63
+18            android:exported="true" >
+18-->/home/astmin/Documents/Android/OpenCV/getting-started/app/src/main/AndroidManifest.xml:9:4-27
+19            <intent-filter>
+19-->/home/astmin/Documents/Android/OpenCV/getting-started/app/src/main/AndroidManifest.xml:10:4-13:20
+20                <action android:name="android.intent.action.MAIN" />
+20-->/home/astmin/Documents/Android/OpenCV/getting-started/app/src/main/AndroidManifest.xml:11:5-56
+20-->/home/astmin/Documents/Android/OpenCV/getting-started/app/src/main/AndroidManifest.xml:11:13-54
+21
+22                <category android:name="android.intent.category.LAUNCHER" />
+22-->/home/astmin/Documents/Android/OpenCV/getting-started/app/src/main/AndroidManifest.xml:12:5-64
+22-->/home/astmin/Documents/Android/OpenCV/getting-started/app/src/main/AndroidManifest.xml:12:15-62
+23            </intent-filter>
+24        </activity>
+25    </application>
+26
+27</manifest>

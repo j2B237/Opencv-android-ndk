@@ -1,0 +1,3 @@
+# ninja log v5
+1	588	1766950382263525060	CMakeFiles/native-lib.dir/native-lib.cpp.o	6995bec70aa1b912
+588	654	1766950382327531148	/home/astmin/Documents/Android/OpenCV/getting-started/app/build/intermediates/cxx/RelWithDebInfo/323wf3w4/obj/arm64-v8a/libnative-lib.so	e181dd526463524e
